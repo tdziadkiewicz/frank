@@ -10,8 +10,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine($"Current time: {DateTime.Now}| Hello world!");
             Console.ReadLine();
-               }
+        }
     }
 }
