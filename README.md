@@ -1,2 +1,4 @@
 # frank
-test purposes
+Repo for learning and test purposes 
+Author: Tomasz Dziadkiewicz
+License: MiT
